@@ -1,2 +1,2 @@
-# Lista-06---parte-2
+# Lista-06_parte-2
 Laços de Repetição
